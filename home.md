@@ -2,4 +2,4 @@
 
 [A]
 
-- Github Sync Test
+- [Github Sync Test]
